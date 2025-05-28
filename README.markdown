@@ -41,7 +41,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Sponsor
 Support the development of Quantum Flux by becoming a GitHub Sponsor! Your contributions help maintain and improve this unique game.
 
-[Become a Sponsor](https://github.com/sponsors/yourusername)
+[Become a Sponsor](https://github.com/sponsors/dieylinusm)
 
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
